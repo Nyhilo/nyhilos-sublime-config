@@ -1,0 +1,2713 @@
+{
+	"folder_history":
+	[
+		"/Z/CS_Classes_2018/CSA161/Website Final Product",
+		"/Z/CS_Classes_2018/CSA150/Final Project",
+		"/Z/CS_Classes_2018/CSA150/exercises/chapter15",
+		"/Z/CS_Classes_2018/CSA150/exercises/chapter13",
+		"/Z/CS_Classes_2018/CSA150/exercises/chapter12",
+		"/Z/codebits/NomicPickaxe",
+		"/Z/CS_Classes_2018/CSA150/exercises/chapter11",
+		"/Z/codebits",
+		"/Z/CS_Classes_2018",
+		"/Z/dldtg",
+		"//yc/staffshare$/jcloward/dldtg",
+		"/C/Users/jcloward/Documents/codebits/savercode",
+		"/Z/CS_Classes_2018/CSA150",
+		"//yc/staffshare$/jcloward/CS_Classes_2018",
+		"//yc.edu/StaffShare$/jcloward/Classes",
+		"//yc.edu/StaffShare$/jcloward/Classes/CSA161",
+		"//yc/staffshare$/jcloward/Classes/CSA150",
+		"//yc.edu/StaffShare$/jcloward/Classes/CSA150",
+		"/C/Users/jcloward/Documents/codebits/organya/source",
+		"/C/Users/jcloward/Documents/codebits/Apollo-11/Comanche055",
+		"/C/Users/jcloward/OneDrive/codebits/Questionaire-Character-Gen",
+		"/C/Users/jcloward/OneDrive/codebits/Adventure",
+		"/C/Users/jcloward/OneDrive/codebits/dnd_bot"
+	],
+	"last_version": 3143,
+	"last_window_id": 49,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 612.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lisst",
+						"list-style-position"
+					],
+					[
+						"lissty",
+						"list-style"
+					],
+					[
+						"mutab",
+						"mutable-rules\t(index.html)"
+					],
+					[
+						"fig",
+						"figcaption\t<figcaption>"
+					],
+					[
+						"tac",
+						"te-ac\ttext-emphasis: accent;"
+					],
+					[
+						"font-st",
+						"font-style"
+					],
+					[
+						"draw",
+						"drawBoard"
+					],
+					[
+						"simF",
+						"simField"
+					],
+					[
+						"fieldW",
+						"fieldWidth"
+					],
+					[
+						"a",
+						"absolute"
+					],
+					[
+						"upd",
+						"updateRules"
+					],
+					[
+						"rule",
+						"rulesString"
+					],
+					[
+						"back",
+						"background-repeat"
+					],
+					[
+						"background",
+						"background-size"
+					],
+					[
+						"grid-te",
+						"grid-template-columns"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"alig",
+						"align-self"
+					],
+					[
+						"bord",
+						"border-box"
+					],
+					[
+						"wd",
+						"width"
+					],
+					[
+						"size",
+						"font-size"
+					],
+					[
+						"align",
+						"align-content"
+					],
+					[
+						"bcolor",
+						"background-color"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"teal",
+						"text-align"
+					],
+					[
+						"au",
+						"auto"
+					],
+					[
+						"txal",
+						"text-align"
+					],
+					[
+						"bg",
+						"bg+\tbackground: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"b",
+						"both"
+					],
+					[
+						"if",
+						"iframe\tTag"
+					],
+					[
+						"p",
+						"p\tTag"
+					],
+					[
+						"occ",
+						"occupationTraits"
+					],
+					[
+						"roll",
+						"roll_2"
+					],
+					[
+						"no",
+						"ouputNodes"
+					],
+					[
+						"in",
+						"inputNodes"
+					],
+					[
+						"vector",
+						"vectorProduct"
+					],
+					[
+						"load",
+						"loadPixels"
+					],
+					[
+						"tr",
+						"try\tTry/Except"
+					],
+					[
+						"Comb",
+						"CombStats"
+					],
+					[
+						"sdp",
+						"setDiplomacy"
+					],
+					[
+						"s",
+						"self"
+					],
+					[
+						"BS",
+						"BaseStats"
+					],
+					[
+						"Com",
+						"CombStats"
+					],
+					[
+						"Bas",
+						"BaseStats"
+					],
+					[
+						"de",
+						"deck1"
+					],
+					[
+						"c",
+						"challengeInput"
+					],
+					[
+						"cond",
+						"condense"
+					],
+					[
+						"defmo",
+						"defmodule"
+					],
+					[
+						"lis",
+						"listmult"
+					],
+					[
+						"_",
+						"_"
+					],
+					[
+						"th",
+						"theLoveIsReal"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Elixir/elixir-mix-test.sublime-build",
+							""
+						],
+						[
+							"Packages/Elixir/elixir.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Elixir/elixir.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 112.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"unfold",
+						"Code Folding: Unfold All"
+					],
+					[
+						"fold",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"colo",
+						"Color Picker"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"colorsu",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"box",
+						"Boxy Theme: Activation"
+					],
+					[
+						"theme ",
+						"Boxy Theme: Activation"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"valid",
+						"W3C Validators: Validate CSS 3"
+					],
+					[
+						"colorp",
+						"Color Picker"
+					],
+					[
+						"valida",
+						"W3C Validators: Validate CSS 3"
+					],
+					[
+						"lint",
+						"JSLint"
+					],
+					[
+						"color pi",
+						"Color Picker"
+					],
+					[
+						"val",
+						"W3C Validators: Validate HTML5"
+					],
+					[
+						"colorpi",
+						"Color Picker"
+					],
+					[
+						"validate",
+						"W3C Validators: Validate CSS 3"
+					],
+					[
+						"vali",
+						"W3C Validators: Validate HTML5"
+					],
+					[
+						"va",
+						"W3C Validators: Validate CSS 3"
+					],
+					[
+						"gutter",
+						"GitGutter: Enable for View"
+					],
+					[
+						"gitgutter",
+						"GitGutter: Disable for View"
+					],
+					[
+						"commit",
+						"Git: Commit"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"livereload",
+						"LiveReload: Self test"
+					],
+					[
+						"livere",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"liverel",
+						"LiveReload: Self test"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"lowe",
+						"Convert Case: Lower Case"
+					],
+					[
+						"upper",
+						"Convert Case: Upper Case"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"colors",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 438.0
+			},
+			"console":
+			{
+				"height": 120.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": true,
+				"show_open_files": false,
+				"show_tabs": true,
+				"side_bar_visible": true,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Z/codebits/NomicPickaxe/javascript/nomic.js",
+				"/Z/codebits/woti/css/style.css",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter09/town_hall_2/styles/main.css",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter09/town_hall_2/index.html",
+				"//yc.edu/StaffShare$/jcloward/Rainmeter/Skins/Elegant Clock/DarkClock.ini",
+				"//home/jcloward/.bashrc",
+				"/Z/CS_Classes_2018/CSA150/Midterm Project - Grand Canyon/grand04/index.html",
+				"/Z/CS_Classes_2018/CSA150/Midterm Project - Grand Canyon/grand03/index.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter09/town_hall_2/luncheons.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter09/town_hall_2/tickets.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter09/town_hall_2/speakers/sampson.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter09/town_hall_1/index.html",
+				"/Z/CS_Classes_2018/CSA150/Midterm Project - Grand Canyon/grand06/index.html",
+				"/Z/CS_Classes_2018/CSA150/Midterm Project - Grand Canyon/grand06/styles/main.css",
+				"/Z/CS_Classes_2018/CSA150/Midterm Project - Grand Canyon/grand05/styles/main.css",
+				"/Z/CS_Classes_2018/CSA150/Midterm Project - Grand Canyon/grand05/index.html",
+				"/Z/dldtg/MUX41",
+				"/Z/dldtg/DEMUX12",
+				"/Z/dldtg/MUX21_2",
+				"/Z/dldtg/TRUTH_TABLE3_2",
+				"/Z/dldtg/TRUTH_TABLE2_2",
+				"//yc/staffshare$/jcloward/dldtg/XOR",
+				"//yc/staffshare$/jcloward/dldtg/OR",
+				"//yc/staffshare$/jcloward/dldtg/NOR",
+				"//yc/staffshare$/jcloward/dldtg/NOT",
+				"//yc/staffshare$/jcloward/dldtg/AND",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/javascript/wolframv2.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/javascript/wolfram.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/css/wolfram.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/css/style.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/wolfram.html",
+				"/C/Users/jcloward/Downloads/The Dungeon of First Campagne 02.html",
+				"/Z/CS_Classes_2018/CSA161/Website Final Product/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/css/wolframv2.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter04/town_hall_1/styles/main.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter04/town_hall_1/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter04/town_hall_1/styles/normalize.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter03/town_hall_1/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter03/town_hall_1/speakers/toobin.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/hello.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/about.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/idle/idle.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/main.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/style.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/.htaccess",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/testpage.html",
+				"/C/Sybase/log/PC-Client.log",
+				"//srhyner/C$/Sybase/SYBASE.bat",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/testing.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/index.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/index.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/hello/hello.html",
+				"/Z/CS_Classes_2018/CSA150/CourseWebpageHome/hello/hello.css",
+				"/Z/CS_Classes_2018/CSA150/CourseWebpageHome/hello/hellom.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/hellom.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/hello.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/testpage/testpage.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/hello.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Hello.html",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-build",
+				"/Z/CS_Classes_2018/CSA161/testpage.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/JavasccriptAssignment_JacobCloward.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/TestJavascript.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/TestJavascript.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/C#_Sample_File.cs",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/testpage/testpage.css",
+				"/C/murach/html5_css3_2/exercises/ch02/template.css",
+				"/C/murach/html5_css3_2/exercises/ch02/template.html",
+				"/C/murach/html5_css3_2/book_apps/ch02/book.css",
+				"/C/murach/html5_css3_2/book_apps/ch02/dreamweaver_book.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/index.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/test.html",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/Gutter Color/GutterColor.sublime-settings",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/README.MD",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/.gitignore",
+				"//yc.edu/StaffShare$/jcloward/Rainmeter/Skins/Simple Cover/SimpleCover.ini",
+				"/Z/AHK/Persistent Generic Controls.ahk",
+				"/C/murach/html5_css3_2/book_apps/ch01/dreamweaver_book.html",
+				"/U/Shr_helpdesk/Installs/Jacob's Tools/Timesheet Filler Outer/TimesheetFiller - Spring2018 - Matt.ahk",
+				"//yc.edu/netlogon/Staff - Copy.vbs",
+				"/C/Users/jcloward/Documents/codebits/savercode/PINBALL_NOUN_TABLES.agc",
+				"/C/Users/jcloward/Documents/codebits/savercode/PINBALL_GAME_BUTTONS_AND_LIGHTS.agc",
+				"/C/Users/jcloward/Documents/codebits/savercode/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc",
+				"/C/Users/jcloward/Documents/codebits/Apollo-11/Comanche055/PINBALL_GAME_BUTTONS_AND_LIGHTS.agc",
+				"/C/Users/jcloward/Documents/codebits/Apollo-11/Comanche055/PINBALL_NOUN_TABLES.agc",
+				"/C/Windows/system32/screensave.py",
+				"//kvail/C$/Windows/sun/java/deployment/deployment.config",
+				"//kvail/C$/Windows/sun/java/deployment/deployment.properties",
+				"//kvail/C$/Windows/sun/java/deployment/exception.sites",
+				"/C/ProgramData/Quest/KACE/scripts/342/script.sh",
+				"/C/Users/jcloward/Downloads/_Thumbs.db",
+				"/C/Users/jcloward/OneDrive/codebits/Questionaire-Character-Gen/.git/HEAD",
+				"/C/Users/jcloward/OneDrive/codebits/Questionaire-Character-Gen/.git/index",
+				"/C/WINDOWS/system32/.bashrc",
+				"/C/home/jcloward/.bashrc",
+				"/C/Users/jcloward/OneDrive/codebits/Questionaire-Character-Gen/init.py",
+				"/C/Users/jcloward/OneDrive/codebits/Adventure/adven.py",
+				"//CALLISTO.YC.EDU/StaffShare$/jcloward/My Games/TIS-100/0/save/00150.0.txt",
+				"/U/Shr_itsinst/Encryption Keys/Recovery Keys(Do not delete)/BitLocker Recovery Key 1D58B056-5938-494D-B7FC-36B9DDDCB9FE.TXT",
+				"/C/Users/jcloward/Downloads/Rockheroes.json",
+				"/C/Users/jcloward/Downloads/base.py",
+				"/Z/AHK/ArrowKeyMouseMove.ahk",
+				"/C/Users/jcloward/OneDrive/codebits/DiscordRollBot/DiscordBot/src/Roller/BasicRoller.java",
+				"/C/Users/jcloward/OneDrive/codebits/Machine/machine.py",
+				"/C/Users/jcloward/OneDrive/codebits/ty.py",
+				"/Z/AHK/Persistent Generic Controls - Copy.ahk",
+				"/U/Shr_helpdesk/Bitlocker Encryption Keys/BitLocker Recovery Key VBELLIS-TB.TXT",
+				"/U/Shr_helpdesk/Bitlocker Encryption Keys/BitLocker Recovery Key ADVISING-02-LT.TXT",
+				"//Keyroom-old/c$/Mwarre03/Signatures/Mark Warren.txt",
+				"//Keyroom-old/c$/KS600n5/Syslog/rAAAAAAH.chg",
+				"/U/Shr_helpdesk/Installs/Jacob's Tools/Timesheet Filler Outer/TimesheetFillerOuter - Francisco.ahk",
+				"/U/Shr_helpdesk/Installs/Jacob's Tools/Password Reset Auto Ticket Creator/Franklin, Dustin/Password Reset AutoTicket - Franklin, Dustin.ahk",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/Password Reset AutoTicket - Franklin, Dustin.ahk",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/PRAT.py",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/TimesheetFillerOuter - Dustin.ahk",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Installed Packages/Python 3.sublime-package",
+				"/C/Users/jcloward/Downloads/EmpireV1.1/Empire/Res/Maps/flatlands.png",
+				"/C/Users/jcloward/Desktop/Burlington Testing/install.bat",
+				"/C/Users/jcloward/Desktop/Burlington Testing/BurlingtonEnglish-Win-Installer.exe",
+				"/C/Users/jcloward/Desktop/ADOBE TEST INSTALL.bat",
+				"/C/Users/jcloward/Desktop/RunAdmin.bat",
+				"/C/Users/jcloward/Downloads/PSTools/Pstools.chm",
+				"/C/Users/jcloward/Downloads/PSTools/psversion.txt"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"<li><",
+					"<li>1",
+					"block",
+					"none",
+					"n",
+					"\n\n",
+					"<span",
+					"Active",
+					"isinactive",
+					"Scott",
+					"h3",
+					"{",
+					": </",
+					"Active",
+					";\n",
+					"status",
+					"\"s",
+					"status",
+					"Status",
+					"status",
+					"/span>",
+					"active",
+					"#",
+					".",
+					"none",
+					"block",
+					"<div",
+					"</",
+					"\n\n",
+					"inline",
+					"font-",
+					"font",
+					"li",
+					"color",
+					"imrule",
+					"<li>",
+					"<t",
+					"p>",
+					"p",
+					"none",
+					"block",
+					"blononck",
+					"none",
+					")",
+					"'\n",
+					".style.display",
+					"=",
+					".style.display",
+					"ID",
+					"option2",
+					"option1",
+					"argument",
+					"none",
+					"block",
+					"none",
+					"block",
+					"}",
+					"=",
+					"playerRoster",
+					"class",
+					"0s",
+					".4",
+					"F7F5EF",
+					"0.4",
+					"}",
+					"\" id=\"",
+					"type",
+					"Rules"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 26.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 106.0
+			},
+			"pinned_build_system": "Packages/User/HTML.sublime-build",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 198.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 799.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"border-bot",
+						"border-bottom-left-radius"
+					],
+					[
+						"back",
+						"background-color\t(wolfram.html)"
+					],
+					[
+						"spacin",
+						"letter-spacing"
+					],
+					[
+						"siz",
+						"size"
+					],
+					[
+						"textal",
+						"text-align"
+					],
+					[
+						"rela",
+						"relativePosition"
+					],
+					[
+						"simin",
+						"simInputEdge"
+					],
+					[
+						"sf",
+						"simField"
+					],
+					[
+						"pix",
+						"pixelSize"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"pi",
+						"pixelSize"
+					],
+					[
+						"draw",
+						"drawPixel"
+					],
+					[
+						"fig",
+						"figcaption\t<figcaption>"
+					],
+					[
+						"tac",
+						"te-ac\ttext-emphasis: accent;"
+					],
+					[
+						"font-st",
+						"font-style"
+					],
+					[
+						"simF",
+						"simField"
+					],
+					[
+						"fieldW",
+						"fieldWidth"
+					],
+					[
+						"a",
+						"absolute"
+					],
+					[
+						"upd",
+						"updateRules"
+					],
+					[
+						"rule",
+						"rulesString"
+					],
+					[
+						"background",
+						"background-size"
+					],
+					[
+						"grid-te",
+						"grid-template-columns"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"alig",
+						"align-self"
+					],
+					[
+						"bord",
+						"border-box"
+					],
+					[
+						"wd",
+						"width"
+					],
+					[
+						"size",
+						"font-size"
+					],
+					[
+						"align",
+						"align-content"
+					],
+					[
+						"bcolor",
+						"background-color"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"teal",
+						"text-align"
+					],
+					[
+						"au",
+						"auto"
+					],
+					[
+						"txal",
+						"text-align"
+					],
+					[
+						"bg",
+						"bg+\tbackground: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"b",
+						"both"
+					],
+					[
+						"if",
+						"iframe\tTag"
+					],
+					[
+						"p",
+						"p\tTag"
+					],
+					[
+						"occ",
+						"occupationTraits"
+					],
+					[
+						"roll",
+						"roll_2"
+					],
+					[
+						"no",
+						"ouputNodes"
+					],
+					[
+						"in",
+						"inputNodes"
+					],
+					[
+						"vector",
+						"vectorProduct"
+					],
+					[
+						"load",
+						"loadPixels"
+					],
+					[
+						"tr",
+						"try\tTry/Except"
+					],
+					[
+						"Comb",
+						"CombStats"
+					],
+					[
+						"sdp",
+						"setDiplomacy"
+					],
+					[
+						"s",
+						"self"
+					],
+					[
+						"BS",
+						"BaseStats"
+					],
+					[
+						"Com",
+						"CombStats"
+					],
+					[
+						"Bas",
+						"BaseStats"
+					],
+					[
+						"de",
+						"deck1"
+					],
+					[
+						"c",
+						"challengeInput"
+					],
+					[
+						"cond",
+						"condense"
+					],
+					[
+						"defmo",
+						"defmodule"
+					],
+					[
+						"lis",
+						"listmult"
+					],
+					[
+						"_",
+						"_"
+					],
+					[
+						"th",
+						"theLoveIsReal"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>Wolfram</title>\n\n    <meta name=\"descriptiom\" content=\"An exploration of Wolfram's Rules of Cellular Automatio\">\n\n    <link href=\"css/style.css\" rel=\"stylesheet\"/>\n    <link href=\"css/navigation.css\" rel=\"stylesheet\"/>\n    <link href=\"css/wolfram.css\" rel=\"stylesheet\"/>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\n\n</head>\n\n<body>\n\n    <aside id=\"info\">\n        <button class=\"btn tabbtn\" id=\"infobtn\" type=\"button\" onclick=\"openInfo()\"><img src=\"graphics/information.png\" alt=\"\"></button>\n        <h2>Wolfram Code and the Rules of Cellular Automation</h2>\n        <h3>Introduction</h3>\n        <p><a class=\"textlink\" href=\"https://en.wikipedia.org/wiki/Elementary_cellular_automaton\">Elementary Cellular Automation</a>\n            is a simple model of computation that lets us visualize the interactions between &quot;cells&quot; (or\n            pixels, or squares) in a grid. The way it works is like this:</p>\n        <ol>\n            <li>For each cell in the grid, look at the cells directly above, above and to the left, and above and to\n                the right.\n            </li>\n            <li>Depending on the rule defined for those 3 cells, determine whether the cell we are looking at is\n                &quot;alive&quot;, meaning colored in, or &quot;dead&quot;, meaning left blank.</li>\n        </ol>\n        <h3>The Rules</h3>   \n        <p>Generally, the rules for a cellular automation system is shown in a table like so:</p>\n        <table>\n            <tr>\n                <td></td><td></td>\n            </tr>\n            <tr>\n                <td></td><td></td>\n            </tr>\n            <tr>\n                <td></td><td></td>\n            </tr>\n            <tr>\n                <td></td><td></td>\n            </tr>\n            <tr>\n                <td></td><td></td>\n            </tr>\n            <tr>\n                <td></td><td></td>\n            </tr>\n            <tr>\n                <td></td><td></td>\n            </tr>\n            <tr>\n                <td></td><td></td>\n            </tr>\n        </table>\n    </aside>\n\n    <aside id=\"nav\">\n        <button class=\"btn tabbtn\" id=\"hamburgbtn\" type=\"button\" onclick=\"openHamburg()\"><img src=\"graphics/hamburger.png\" alt=\"\"></button>\n        <a href=\"index.html\"><div class=\"btn sidebarbtn\"><h3>Home</h3></div></a>\n        <a href=\"necromancy.html\"><div class=\"btn sidebarbtn\"><h3>Necromancy</h3></div></a>\n        <a href=\"hello.html\"><div class=\"btn sidebarbtn\"><h3>Hello Game</h3></div></a>\n        <a href=\"about.html\"><div class=\"btn sidebarbtn\"><h3>About Me</h3></div></a>\n    </aside>\n\n    \n    <main class=\"wolfram-grid-container\" id=\"main\">\n        <header><h1 class=\"wolfram-header\">Wolfram</h1></header>\n        <div class=\"options-area\">\n            <h2 class=\"rules-header\">Rule (<span id=\"ruleNumber\"></span>):</h2><br/>\n            <div class=\"rule-container\">\n                <div class=\"inline\" style=\"background-color: #333332\"></div>\n                <div class=\"inline\" style=\"background-color: #333332\"></div>\n                <div class=\"inline\" style=\"background-color: #333332\"></div><br>\n                <button class=\"btn rulebtn\" onclick=\"updateRule(0)\"><div class=\"rule\" id=\"rule1\"></div></button>\n            </div>&nbsp;|\n            <div class=\"rule-container\">\n                <div class=\"inline\" style=\"background-color: #333332\"></div>\n                <div class=\"inline\" style=\"background-color: #333332\"></div>\n                <div class=\"inline\"></div><br>\n                <button class=\"btn rulebtn\" onclick=\"updateRule(1)\"><div class=\"rule\" id=\"rule2\"></div></button>\n            </div>&nbsp;|\n            <div class=\"rule-container\">\n                <div class=\"inline\" style=\"background-color: #333332\"></div>\n                <div class=\"inline\"></div>\n                <div class=\"inline\" style=\"background-color: #333332\"></div><br>\n                <button class=\"btn rulebtn\" onclick=\"updateRule(2)\"><div class=\"rule\" id=\"rule3\"></div></button>\n            </div>&nbsp;|\n            <div class=\"rule-container\">\n                <div class=\"inline\" style=\"background-color: #333332\"></div>\n                <div class=\"inline\"></div>\n                <div class=\"inline\"></div><br>\n                <button class=\"btn rulebtn\" onclick=\"updateRule(3)\"><div class=\"rule\" id=\"rule4\"></div></button>\n            </div>&nbsp;|\n            <div class=\"rule-container\">\n                <div class=\"inline\"></div>\n                <div class=\"inline\" style=\"background-color: #333332\"></div>\n                <div class=\"inline\" style=\"background-color: #333332\"></div><br>\n                <button class=\"btn rulebtn\" onclick=\"updateRule(4)\"><div class=\"rule\" id=\"rule5\"></div></button>\n            </div>&nbsp;|\n            <div class=\"rule-container\">\n                <div class=\"inline\"></div>\n                <div class=\"inline\" style=\"background-color: #333332\"></div>\n                <div class=\"inline\"></div><br>\n                <button class=\"btn rulebtn\" onclick=\"updateRule(5)\"><div class=\"rule\" id=\"rule6\"></div></button>\n            </div>&nbsp;|\n            <div class=\"rule-container\">\n                <div class=\"inline\"></div>\n                <div class=\"inline\"></div>\n                <div class=\"inline\" style=\"background-color: #333332\"></div><br>\n                <button class=\"btn rulebtn\" onclick=\"updateRule(6)\"><div class=\"rule\" id=\"rule7\"></div></button>\n            </div>&nbsp;|\n            <div class=\"rule-container\">\n                <div class=\"inline\"></div>\n                <div class=\"inline\"></div>\n                <div class=\"inline\"></div><br>\n                <button class=\"btn rulebtn\" onclick=\"updateRule(7)\"><div class=\"rule\" id=\"rule8\"></div></button>\n            </div>\n        </div> \n        <br>\n        <div class=\"simulation-area\" >\n            <button class=\"btn\" type=\"button\" onclick=\"reset()\">Click to Run</button> |\n            <button class=\"btn\" type=\"button\" onclick=\"randomizeInput()\">Randomize Input Row</button> |\n            <button class=\"btn\" type=\"button\" onclick=\"clearBoard()\">Clear Board</button>\n            <br/>\n            <p>Input Row</p>\n            <canvas id=\"sim-first-line\" width=\"390\" height=\"15\"></canvas><br/>\n            <p>Simulation Area</p>\n            <canvas id=\"sim-area\" width=\"390\" height=\"600\"></canvas>\n        </div>\n    </main>\n\n    <script src=\"javascript/wolfram.js\"></script>\n    <script src=\"javascript/navigation.js\"></script>\n</body>\n</html>",
+					"file": "/Z/CS_Classes_2018/CSA161/Website Final Product/wolfram.html",
+					"file_size": 6694,
+					"file_write_time": 131680588238786972,
+					"settings":
+					{
+						"buffer_size": 6555,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "body {\n    margin: 0;\n}\n\n\n/* Main */\n\nh1 {\n    margin: 1rem;\n}\n\nh2 {\n    font-size: 200%;\n    margin: 0;\n    text-align: left;\n}\n\na.textlink {\n    text-decoration: underline ;\n    \n}\n\n#info h2 {\n    font-size: 180%;\n    text-align: center;\n}\n\nmain {\n    margin-left: 0px;\n    transition: .5s;\n}\n\nmain div.options-area {\n    display: table;\n    width: auto;\n}\n\nmain div {\n    position: relative;\n    display: box;\n    width: auto;\n    text-align: center;\n    margin: 0 auto;\n}\n\n.btn {\n    margin-bottom: 1rem;\n    border-radius: 2px;\n}\n\n/* Canvas and Rules*/\n\ncanvas{\n    margin-bottom: .5rem;\n    border: 1px solid #333332;\n}\n\n.rule-container {\n    display: inline-block;\n    font-size: 4px;\n}\n\ndiv.inline {\n    display: inline-block;\n    letter-spacing: 0;\n}\n\ndiv.rule {\n    margin-top: 1px;\n}\n\n.rule-container div {\n    width: 15px;\n    height: 15px;\n    border: 1px solid #333332;\n}\n\n.simulation-area p {\n    margin: 0 0 .5rem;\n}\n\n.rulebtn {\n    padding: 2px 3px 3px;\n}",
+					"file": "/Z/CS_Classes_2018/CSA161/Website Final Product/css/wolfram.css",
+					"file_size": 1048,
+					"file_write_time": 131680577545927958,
+					"settings":
+					{
+						"buffer_size": 972,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Z/CS_Classes_2018/CSA161/Website Final Product/css/navigation.css",
+					"settings":
+					{
+						"buffer_size": 700,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Z/CS_Classes_2018/CSA161/Website Final Product/javascript/navigation.js",
+					"settings":
+					{
+						"buffer_size": 2073,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "/*\nRewriting Wolfram.js for an html canvas, because doing it with fonts is badly non-portable\n\n\n\nJacob CLoward 4/5/18\n*/\n\n// window.onload = function() {\n\n  /////////////\n // Globals //\n/////////////\n\n// Shortcuts for html elements\nlet simField        = document.getElementById(\"sim-area\");\nlet context         = simField.getContext(\"2d\")\nlet simInput        = document.getElementById(\"sim-first-line\");\nlet inContext       = simInput.getContext(\"2d\")\n\n\n// Grid width and height, this will probably become more flexible later\nlet field       = new Array();\nlet inField     = new Array();\nlet width       = simField.width;\nlet height      = simField.height;\nlet inWidth     = simInput.width;\nlet inHeight    = simInput.height;\nlet cellSize   = 15;\n\n// Grid styling\nconst gridColor       = \"#DEDCD8\";\n// const gridColor       = \"white\"\n// const gridColor       = \"#F7F5EF\"\nconst cellColor      = \"#000000\"\nconst gridThickness   = 2;\n\n// There are 8 rules for the simulation. We'll define rule 30 as an initial state just for fun\n// The array elements correspond to the rules [111,110,101,100,011,010,001,000]\nlet rules = [0,0,0,1,1,1,1,0];\n\nlet ruleIDs = [document.getElementById(\"rule1\"),\n               document.getElementById(\"rule2\"),\n               document.getElementById(\"rule3\"),\n               document.getElementById(\"rule4\"),\n               document.getElementById(\"rule5\"),\n               document.getElementById(\"rule6\"),\n               document.getElementById(\"rule7\"),\n               document.getElementById(\"rule8\")];\n\n  ////////////////////\n // Rule Functions //\n////////////////////\n\nfunction drawRules() {\n    for (var i = 0; i < rules.length; i++) {\n        if ( rules[i] ) {\n            ruleIDs[i].style.backgroundColor = \"#333332\";\n        } else {\n            ruleIDs[i].style.backgroundColor = \"\";\n        }\n    }\n    document.getElementById(\"ruleNumber\").innerHTML = parseInt(rules.join(''), 2);\n}\n\nfunction updateRule(i) {\n    if (ruleIDs[i].style.backgroundColor == \"\") {\n        rules[i] = 1;\n    } else {\n        rules[i] = 0;\n    }\n\n\n    drawRules();\n}\n\n\n  ////////////////////\n // Draw Functions //\n////////////////////\n\nfunction clearBoard() {\n    // Frist we clear the board\n    context.beginPath();\n    context.clearRect(0, 0, simField.width, simField.height);\n\n    // Now we draw the rest of the board\n    for (let x = 0; x <= width; x+=cellSize) {\n        context.moveTo(x,0);\n        context.lineTo(x,height);\n    }\n\n    for (let y = 0; y <= height; y+=cellSize) {\n        context.moveTo(0,y);\n        context.lineTo(width,y)   \n    }\n\n    // And stroke the grid\n    context.strokeStyle = gridColor;\n    context.lineWidth = gridThickness;\n    context.stroke();\n}\n\nfunction clearInput() {\n    // Frist we clear the input board\n    inContext.beginPath(); \n    inContext.clearRect(0, 0, simInput.width, simInput.height);\n    \n    // Draw the first line board.\n    // The first line is garanteed to be one cell deep so we don't need complex vertical lines\n    for (let x = 0; x <= inWidth; x+=cellSize) {\n        inContext.moveTo(x,0);\n        inContext.lineTo(x,inHeight);\n    }\n\n    // Draw the top and bottom lines of the first line box\n    inContext.moveTo(0,0);\n    inContext.lineTo(inWidth,0);\n\n    inContext.moveTo(0,inHeight);\n    inContext.lineTo(inWidth,inHeight)\n\n    // Stroke the first line box lines\n    inContext.strokeStyle = gridColor;\n    inContext.lineWidth = gridThickness;\n    inContext.stroke();\n}\n\nfunction drawCell(ctx, i, j) { ctx.fillRect( j*cellSize+1, (i)*cellSize+1, cellSize-2, cellSize-2 ); }\n\nfunction drawBoard() {\n    // Clear board\n    clearBoard();\n    // Smol variables\n    let h = height/cellSize;\n    let w = width/cellSize;\n\n    for (let i = 0; i < h; i++) {\n        for (let j = 0; j < w; j++) {\n            if ( field[i][j] == 1) {\n                drawCell(context, i, j);\n            }\n        }\n    }\n}\n\nfunction drawInput() {\n    clearInput();\n    let w = width/cellSize;\n\n    for (var j = 0; j < w; j++) {\n        if ( inField[j] == 1 ) {\n            drawCell(inContext, 0, j);\n        }\n    }\n}\n\n  ///////////////////////\n // General Functions //\n///////////////////////\n\n// Allows us to really quickly generate an array of arbitrary multidimensional size\n// Takes an array of dimension sizes as an input\n// For example, an input of [2,3,5] with create a 3d array of size 2x3x5\nfunction createArray(dimensions) {\n    // Pulls out the first dimentional length\n    let [length, ...rest] = dimensions;\n    // Creates our return array\n    let arr = new Array(length || 0);\n\n    // If there are more dimentions in the input array, create a sub-array for each index in the current array\n    // and run the same formula for each of those. This is what lets us generate an array of arbitrary dimensions\n    if (rest.length) {\n        for (let i = 0; i < length; i++) {\n            arr[i] = createArray(rest);\n        }\n    }\n\n    return arr;\n}\n\n// With this we can click on the cells in the input row to change the pattern\nsimInput.addEventListener('click', (e) => {\n    // We need to get the position of the canvas in order to click it properly\n    let simInputEdge = simInput.getBoundingClientRect();\n\n    const clickPosition = e.clientX;\n    const relativePosition = clickPosition - simInputEdge.left;\n\n    // The cell we clicked on is the relative position (by pixel) size of a cell\n    position = Math.ceil(relativePosition / cellSize) - 1; // Though arrays start at 0, hence -1\n\n    // Reverse the value of the clicked cell and redraw the board\n    // if x=0, 1-(x) = 1  |  if x=1, 1-(x) = 0. Neat. \n    inField[position] = 1 - inField[position] \n    drawInput();\n\n});\n\n// Runs the wolfram simulation depending on the rules currently defined.\nfunction runSim() {\n    // Iterate through all cells in the field\n    for (let i = 0; i < field.length; i++) {\n        // Row 0 of field needs to reference the input field\n        let previousRow = (i == 0 ? inField : field[i-1])\n        // field[0].lenth is the width of the 2d array\n        for (let j = 0; j < field[0].length; j++) {\n            // State will be something like \"110\" and will be the thing we check against the rules\n            let state = \"\"\n            // The first state value is the value up and to the left of the cell we're checking\n            state += ( j == 0 ? 0 : previousRow[j-1] );\n\n            // The second state value is the value right above the current cell\n            state += previousRow[j];\n\n            // The third state value is the value up and to the right of the cell\n            state += ( j == field[0].length-1 ? 0 : previousRow[j+1] );\n\n            switch(state) {\n                case \"111\":\n                    field[i][j] = rules[0];\n                    break;\n                case \"110\":\n                    field[i][j] = rules[1];\n                    break;\n                case \"101\":\n                    field[i][j] = rules[2];\n                    break;\n                case \"100\":\n                    field[i][j] = rules[3];\n                    break;\n                case \"011\":\n                    field[i][j] = rules[4];\n                    break;\n                case \"010\":\n                    field[i][j] = rules[5];\n                    break;\n                case \"001\":\n                    field[i][j] = rules[6];\n                    break;\n                case \"000\":\n                    field[i][j] = rules[7];\n                    break;\n\n                default:\n                    console.debug(\"Error during wolfram calculation. State did not resolve correctly.\")       \n            }\n\n        }\n\n    }\n}\n\nfunction reset() {\n    runSim();\n    drawBoard();\n    drawInput();\n    drawRules();\n}\n\nfunction randomizeInput() {\n    for (var i = 0; i < inField.length; i++) {\n        inField[i] = Math.round(Math.random())\n    } \n    drawInput();\n}\n\n  //////////\n // Main //\n//////////\n\n\nfunction main() {\n    // Create a 2d array that fits in the canvas and initialize every value to 0\n    field = createArray([height/cellSize, width/cellSize]);\n\n    for (let i = 0; i < field.length; i++) {\n        for (let j = 0; j < field[0].length; j++) {\n            field[i][j] = 0;\n        }\n    }\n\n    // Create a 1d array for the input feild. It will be initialized randomly\n    inField = createArray([width/cellSize]);\n    randomizeInput();\n\n    runSim();\n    clearBoard();\n    drawInput();\n    drawRules();\n}\n\nmain();\n\n\n// }    // Closing the DOM loader at the top",
+					"file": "/Z/CS_Classes_2018/CSA161/Website Final Product/javascript/wolfram.js",
+					"file_size": 10568,
+					"file_write_time": 131680497109093887,
+					"settings":
+					{
+						"buffer_size": 8446,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Elixir/elixir-mix-test.sublime-build",
+							""
+						],
+						[
+							"Packages/Elixir/elixir.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Elixir/elixir.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "colo",
+				"selected_items":
+				[
+					[
+						"colo",
+						"Color Picker"
+					],
+					[
+						"picker",
+						"Color Picker"
+					],
+					[
+						"val",
+						"W3C Validators: Validate HTML5"
+					],
+					[
+						"valida",
+						"W3C Validators: Validate HTML5"
+					],
+					[
+						"valid",
+						"W3C Validators: Validate HTML5"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"vali",
+						"W3C Validators: Validate HTML5"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"colorsu",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"box",
+						"Boxy Theme: Activation"
+					],
+					[
+						"theme ",
+						"Boxy Theme: Activation"
+					],
+					[
+						"colorp",
+						"Color Picker"
+					],
+					[
+						"lint",
+						"JSLint"
+					],
+					[
+						"color pi",
+						"Color Picker"
+					],
+					[
+						"colorpi",
+						"Color Picker"
+					],
+					[
+						"validate",
+						"W3C Validators: Validate CSS 3"
+					],
+					[
+						"va",
+						"W3C Validators: Validate CSS 3"
+					],
+					[
+						"gutter",
+						"GitGutter: Enable for View"
+					],
+					[
+						"gitgutter",
+						"GitGutter: Disable for View"
+					],
+					[
+						"commit",
+						"Git: Commit"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"livereload",
+						"LiveReload: Self test"
+					],
+					[
+						"livere",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"liverel",
+						"LiveReload: Self test"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"fold",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"lowe",
+						"Convert Case: Lower Case"
+					],
+					[
+						"upper",
+						"Convert Case: Upper Case"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"colors",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 462.0
+			},
+			"console":
+			{
+				"height": 120.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": true,
+				"show_open_files": false,
+				"show_tabs": true,
+				"side_bar_visible": true,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Z/CS_Classes_2018/CSA161/Website Final Product",
+				"/Z/CS_Classes_2018/CSA161/Website Final Product/css",
+				"/Z/CS_Classes_2018/CSA161/Website Final Product/javascript"
+			],
+			"file_history":
+			[
+				"/Z/CS_Classes_2018/CSA161/ClowardJacob_CSA161_Python.py",
+				"/Z/CS_Classes_2018/CSA161/Website Final Product/javascript/navigation.js",
+				"/Z/CS_Classes_2018/CSA161/Website Final Product/css/navigation.css",
+				"/Z/CS_Classes_2018/CSA161/Website Final Product/css/style.css",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Local/Session.sublime_session",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Local/Auto Save Session.sublime_session",
+				"/Z/CS_Classes_2018/CSA161/Website Final Product/css/wolfram.css",
+				"/Z/CS_Classes_2018/CSA150/Final Project/index.html",
+				"/Z/codebits/NomicPickaxe/css/style.css",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter15/image_swaps.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter15/styles/speaker.css",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter15/speakers/sampson.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter13/town_hall_2/styles/speaker.css",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter13/town_hall_2/speakers/sampson.html",
+				"/C/murach/html5_css3_2/book_apps/ch12/town_hall/index.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter12/town_hall_2/speakers/sampson_video.html",
+				"/Z/codebits/NomicPickaxe/changelog.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter11/town_hall_2/tickets.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter11/town_hall_2/styles/tickets.css",
+				"/Z/codebits/NomicPickaxe/roster.html",
+				"/Z/codebits/NomicPickaxe/index.html",
+				"//yc/staffshare$/jcloward/codebits/NomicPickaxe/.gitconfig",
+				"//yc/staffshare$/jcloward/codebits/NomicPickaxe/index.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter10/town_hall_2/luncheons.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter10/town_hall_2/styles/main.css",
+				"/Z/CS_Classes_2018/CSA161/Website Final Product/wolfram.html",
+				"/Z/CS_Classes_2018/CSA161/Website Final Product/javascript/wolframv2.js",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter09/town_hall_2/speakers/sampson.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter09/town_hall_2/styles/speaker.css",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter09/town_hall_2/styles/main.css",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter09/town_hall_2/index.html",
+				"//yc.edu/StaffShare$/jcloward/Rainmeter/Skins/Elegant Clock/DarkClock.ini",
+				"//home/jcloward/.bashrc",
+				"/Z/CS_Classes_2018/CSA150/Midterm Project - Grand Canyon/grand04/index.html",
+				"/Z/CS_Classes_2018/CSA150/Midterm Project - Grand Canyon/grand03/index.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter09/town_hall_2/luncheons.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter09/town_hall_2/tickets.html",
+				"/Z/CS_Classes_2018/CSA150/exercises/chapter09/town_hall_1/index.html",
+				"/Z/CS_Classes_2018/CSA150/Midterm Project - Grand Canyon/grand06/index.html",
+				"/Z/CS_Classes_2018/CSA150/Midterm Project - Grand Canyon/grand06/styles/main.css",
+				"/Z/CS_Classes_2018/CSA150/Midterm Project - Grand Canyon/grand05/styles/main.css",
+				"/Z/CS_Classes_2018/CSA150/Midterm Project - Grand Canyon/grand05/index.html",
+				"/Z/dldtg/MUX41",
+				"/Z/dldtg/DEMUX12",
+				"/Z/dldtg/MUX21_2",
+				"/Z/dldtg/TRUTH_TABLE3_2",
+				"/Z/dldtg/TRUTH_TABLE2_2",
+				"//yc/staffshare$/jcloward/dldtg/XOR",
+				"//yc/staffshare$/jcloward/dldtg/OR",
+				"//yc/staffshare$/jcloward/dldtg/NOR",
+				"//yc/staffshare$/jcloward/dldtg/NOT",
+				"//yc/staffshare$/jcloward/dldtg/AND",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/javascript/wolframv2.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/javascript/wolfram.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/css/wolfram.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/css/style.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/wolfram.html",
+				"/C/Users/jcloward/Downloads/The Dungeon of First Campagne 02.html",
+				"/Z/CS_Classes_2018/CSA161/Website Final Product/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/css/wolframv2.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter04/town_hall_1/styles/main.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter04/town_hall_1/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter04/town_hall_1/styles/normalize.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter03/town_hall_1/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter03/town_hall_1/speakers/toobin.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/hello.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/about.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/idle/idle.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/main.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/style.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/.htaccess",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/testpage.html",
+				"/C/Sybase/log/PC-Client.log",
+				"//srhyner/C$/Sybase/SYBASE.bat",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/testing.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/index.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/index.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/hello/hello.html",
+				"/Z/CS_Classes_2018/CSA150/CourseWebpageHome/hello/hello.css",
+				"/Z/CS_Classes_2018/CSA150/CourseWebpageHome/hello/hellom.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/hellom.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/hello.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/testpage/testpage.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/hello.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Hello.html",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-build",
+				"/Z/CS_Classes_2018/CSA161/testpage.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/JavasccriptAssignment_JacobCloward.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/TestJavascript.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/TestJavascript.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/C#_Sample_File.cs",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/testpage/testpage.css",
+				"/C/murach/html5_css3_2/exercises/ch02/template.css",
+				"/C/murach/html5_css3_2/exercises/ch02/template.html",
+				"/C/murach/html5_css3_2/book_apps/ch02/book.css",
+				"/C/murach/html5_css3_2/book_apps/ch02/dreamweaver_book.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/index.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/test.html",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/Gutter Color/GutterColor.sublime-settings",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/README.MD",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/.gitignore",
+				"//yc.edu/StaffShare$/jcloward/Rainmeter/Skins/Simple Cover/SimpleCover.ini",
+				"/Z/AHK/Persistent Generic Controls.ahk",
+				"/C/murach/html5_css3_2/book_apps/ch01/dreamweaver_book.html",
+				"/U/Shr_helpdesk/Installs/Jacob's Tools/Timesheet Filler Outer/TimesheetFiller - Spring2018 - Matt.ahk",
+				"//yc.edu/netlogon/Staff - Copy.vbs",
+				"/C/Users/jcloward/Documents/codebits/savercode/PINBALL_NOUN_TABLES.agc",
+				"/C/Users/jcloward/Documents/codebits/savercode/PINBALL_GAME_BUTTONS_AND_LIGHTS.agc",
+				"/C/Users/jcloward/Documents/codebits/savercode/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc",
+				"/C/Users/jcloward/Documents/codebits/Apollo-11/Comanche055/PINBALL_GAME_BUTTONS_AND_LIGHTS.agc",
+				"/C/Users/jcloward/Documents/codebits/Apollo-11/Comanche055/PINBALL_NOUN_TABLES.agc",
+				"/C/Windows/system32/screensave.py",
+				"//kvail/C$/Windows/sun/java/deployment/deployment.config",
+				"//kvail/C$/Windows/sun/java/deployment/deployment.properties",
+				"//kvail/C$/Windows/sun/java/deployment/exception.sites",
+				"/C/ProgramData/Quest/KACE/scripts/342/script.sh",
+				"/C/Users/jcloward/Downloads/_Thumbs.db",
+				"/C/Users/jcloward/OneDrive/codebits/Questionaire-Character-Gen/.git/HEAD",
+				"/C/Users/jcloward/OneDrive/codebits/Questionaire-Character-Gen/.git/index",
+				"/C/WINDOWS/system32/.bashrc",
+				"/C/home/jcloward/.bashrc",
+				"/C/Users/jcloward/OneDrive/codebits/Questionaire-Character-Gen/init.py",
+				"/C/Users/jcloward/OneDrive/codebits/Adventure/adven.py"
+			],
+			"find":
+			{
+				"height": 49.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"simField",
+					"\")",
+					"<td></td><td></td>",
+					"<td></td>\n                <td></td>",
+					"6",
+					"\"\"",
+					"285",
+					"335",
+					"w",
+					"W",
+					"\"",
+					"sidebar",
+					"info",
+					"infopanel",
+					"=",
+					"h3",
+					"h4",
+					"h2",
+					"btn",
+					"335",
+					"335px",
+					"none",
+					"Info",
+					"infopanel",
+					"infobutton",
+					"infobtn",
+					"stle",
+					"maindiv",
+					"info",
+					"rem",
+					"absolute",
+					"0rem",
+					"infobtn",
+					"class",
+					"right",
+					"absolute",
+					"fixed",
+					"right",
+					"relative",
+					";\n",
+					"fixed",
+					"left",
+					"h3",
+					"relative",
+					"a",
+					"rules",
+					"n-1",
+					"-c",
+					"n-1",
+					"console",
+					"let",
+					";",
+					"<but",
+					"333332",
+					"rule\"",
+					"rule",
+					"container",
+					"20px",
+					"wolfram.css",
+					"padding",
+					"25px",
+					"rule\"",
+					"rule",
+					"container",
+					"<div>",
+					"333",
+					"333333",
+					"33333",
+					"3333",
+					"333",
+					"wolfram",
+					"\"",
+					"\"Murach\", Arial, sans-serif;\n\tfont-size: 175",
+					"Helvetica",
+					"Murach",
+					"media",
+					"sjv_speakers_sampson",
+					"card_number",
+					"tickets",
+					"Membership",
+					"name",
+					"expiration_year",
+					"\">",
+					"\"\"",
+					"\"",
+					"expiration_month",
+					"expiration_date",
+					"both",
+					";\n",
+					"label",
+					"value",
+					"_",
+					"/l",
+					"label",
+					"number_of_tickets",
+					"\">",
+					"Junior",
+					"membership_type",
+					"membership",
+					"Membership",
+					"MyUsername",
+					"=\"\">",
+					"id",
+					"=\"\">",
+					"id",
+					"\"\"",
+					"<l",
+					"                            <l",
+					"\n                    <l",
+					"                    <l",
+					"                      ",
+					"                     ",
+					"                    ",
+					"<l",
+					"li",
+					"<l",
+					"<li>",
+					"rules",
+					"onclick",
+					"button",
+					"n>",
+					"button",
+					"<b",
+					"button",
+					"height",
+					"bottom",
+					"{",
+					"figure"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "Z:\\codebits\\NomicPickaxe"
+				},
+				{
+					"path": "Z:\\CS_Classes_2018\\CSA150\\Final Project"
+				},
+				{
+					"path": "Z:\\CS_Classes_2018\\CSA161\\Website Final Product"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Z/CS_Classes_2018/CSA161/Website Final Product/wolfram.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6555,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1622,
+										1622
+									],
+									[
+										1692,
+										1692
+									],
+									[
+										1762,
+										1762
+									],
+									[
+										1832,
+										1832
+									],
+									[
+										1902,
+										1902
+									],
+									[
+										1972,
+										1972
+									],
+									[
+										2042,
+										2042
+									],
+									[
+										2112,
+										2112
+									]
+								],
+								"settings":
+								{
+									"rulers":
+									[
+										120
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 288.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Z/CS_Classes_2018/CSA161/Website Final Product/css/wolfram.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 972,
+								"regions":
+								{
+									"gutter_color_1045":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1094":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1101":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1117":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1118":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_113":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1156":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1186":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1187":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1206":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1215":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1219":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_128":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1305":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_131":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1340":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1377":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1416":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1446":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1447":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1466":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1475":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1479":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1485":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1499":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_151":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_153":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_156":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1600":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_248":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_268":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_276":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_282":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_298":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_307":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_324":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_495":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_512":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_517":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_539":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_54":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_542":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_546":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_550":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_563":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_579":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_586":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_587":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_588":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_590":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_609":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												593,
+												623
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_735":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_75":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_799":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_802":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_810":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_823":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_846":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_847":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_848":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_850":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_869":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												853,
+												883
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_92":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_97":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_99":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												25,
+												25
+											]
+										],
+										"scope": "gutter_color"
+									}
+								},
+								"selection":
+								[
+									[
+										180,
+										180
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Z/CS_Classes_2018/CSA161/Website Final Product/css/navigation.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 700,
+								"regions":
+								{
+									"gutter_color_280":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												287,
+												322
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_281":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												287,
+												322
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_287":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												287,
+												322
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_29":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#333332.png",
+										"regions":
+										[
+											[
+												29,
+												65
+											]
+										],
+										"scope": "gutter_color"
+									}
+								},
+								"selection":
+								[
+									[
+										435,
+										435
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Z/CS_Classes_2018/CSA161/Website Final Product/javascript/navigation.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 2073,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										910,
+										910
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Z/CS_Classes_2018/CSA161/Website Final Product/javascript/wolfram.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8446,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										236,
+										244
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 26.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 106.0
+			},
+			"pinned_build_system": "Packages/User/HTML.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,750,0,38,768",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 47,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,1397 @@
+{
+	"folder_history":
+	[
+		"//yc/staffshare$/jcloward/dldtg",
+		"//yc/staffshare$/jcloward/CS_Classes_2018",
+		"//yc.edu/StaffShare$/jcloward/Classes",
+		"//yc.edu/StaffShare$/jcloward/Classes/CSA161",
+		"//yc/staffshare$/jcloward/Classes/CSA150",
+		"//yc.edu/StaffShare$/jcloward/Classes/CSA150",
+		"/C/Users/jcloward/Documents/codebits/organya/source",
+		"/C/Users/jcloward/Documents/codebits/Apollo-11/Comanche055",
+		"/C/Users/jcloward/OneDrive/codebits/Questionaire-Character-Gen",
+		"/C/Users/jcloward/OneDrive/codebits/Adventure",
+		"/C/Users/jcloward/OneDrive/codebits/dnd_bot"
+	],
+	"last_version": 3143,
+	"last_window_id": 39,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 750.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fontst",
+						"font-style"
+					],
+					[
+						"font-st",
+						"font-style"
+					],
+					[
+						"draw",
+						"drawBoard"
+					],
+					[
+						"simF",
+						"simField"
+					],
+					[
+						"fieldW",
+						"fieldWidth"
+					],
+					[
+						"a",
+						"absolute"
+					],
+					[
+						"upd",
+						"updateRules"
+					],
+					[
+						"rule",
+						"rulesString"
+					],
+					[
+						"back",
+						"background-repeat"
+					],
+					[
+						"background",
+						"background-size"
+					],
+					[
+						"grid-te",
+						"grid-template-columns"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"alig",
+						"align-self"
+					],
+					[
+						"bord",
+						"border-box"
+					],
+					[
+						"wd",
+						"width"
+					],
+					[
+						"size",
+						"font-size"
+					],
+					[
+						"align",
+						"align-content"
+					],
+					[
+						"bcolor",
+						"background-color"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"teal",
+						"text-align"
+					],
+					[
+						"au",
+						"auto"
+					],
+					[
+						"txal",
+						"text-align"
+					],
+					[
+						"bg",
+						"bg+\tbackground: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"b",
+						"both"
+					],
+					[
+						"if",
+						"iframe\tTag"
+					],
+					[
+						"p",
+						"p\tTag"
+					],
+					[
+						"occ",
+						"occupationTraits"
+					],
+					[
+						"roll",
+						"roll_2"
+					],
+					[
+						"no",
+						"ouputNodes"
+					],
+					[
+						"in",
+						"inputNodes"
+					],
+					[
+						"vector",
+						"vectorProduct"
+					],
+					[
+						"load",
+						"loadPixels"
+					],
+					[
+						"tr",
+						"try\tTry/Except"
+					],
+					[
+						"Comb",
+						"CombStats"
+					],
+					[
+						"sdp",
+						"setDiplomacy"
+					],
+					[
+						"s",
+						"self"
+					],
+					[
+						"BS",
+						"BaseStats"
+					],
+					[
+						"Com",
+						"CombStats"
+					],
+					[
+						"Bas",
+						"BaseStats"
+					],
+					[
+						"de",
+						"deck1"
+					],
+					[
+						"c",
+						"challengeInput"
+					],
+					[
+						"cond",
+						"condense"
+					],
+					[
+						"defmo",
+						"defmodule"
+					],
+					[
+						"lis",
+						"listmult"
+					],
+					[
+						"_",
+						"_"
+					],
+					[
+						"th",
+						"theLoveIsReal"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Elixir/elixir-mix-test.sublime-build",
+							""
+						],
+						[
+							"Packages/Elixir/elixir.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Elixir/elixir.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 310.0,
+				"last_filter": "colorp",
+				"selected_items":
+				[
+					[
+						"colorp",
+						"Color Picker"
+					],
+					[
+						"valida",
+						"W3C Validators: Validate CSS 3"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"lint",
+						"JSLint"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"color pi",
+						"Color Picker"
+					],
+					[
+						"val",
+						"W3C Validators: Validate HTML5"
+					],
+					[
+						"colorpi",
+						"Color Picker"
+					],
+					[
+						"validate",
+						"W3C Validators: Validate CSS 3"
+					],
+					[
+						"vali",
+						"W3C Validators: Validate HTML5"
+					],
+					[
+						"va",
+						"W3C Validators: Validate CSS 3"
+					],
+					[
+						"valid",
+						"W3C Validators: Validate HTML5"
+					],
+					[
+						"gutter",
+						"GitGutter: Enable for View"
+					],
+					[
+						"gitgutter",
+						"GitGutter: Disable for View"
+					],
+					[
+						"commit",
+						"Git: Commit"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"livereload",
+						"LiveReload: Self test"
+					],
+					[
+						"livere",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"liverel",
+						"LiveReload: Self test"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"fold",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"lowe",
+						"Convert Case: Lower Case"
+					],
+					[
+						"upper",
+						"Convert Case: Upper Case"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"colors",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"colorsu",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 438.0
+			},
+			"console":
+			{
+				"height": 120.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/javascript/wolframv2.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/javascript/wolfram.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/css/wolfram.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/css/style.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/wolfram.html",
+				"/C/Users/jcloward/Downloads/The Dungeon of First Campagne 02.html",
+				"/Z/CS_Classes_2018/CSA161/Website Final Product/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/css/wolframv2.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter04/town_hall_1/styles/main.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter04/town_hall_1/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter04/town_hall_1/styles/normalize.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter03/town_hall_1/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter03/town_hall_1/speakers/toobin.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/hello.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/about.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/idle/idle.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/main.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/style.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/.htaccess",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/testpage.html",
+				"/C/Sybase/log/PC-Client.log",
+				"//srhyner/C$/Sybase/SYBASE.bat",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/testing.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/index.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/index.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/hello/hello.html",
+				"/Z/CS_Classes_2018/CSA150/CourseWebpageHome/hello/hello.css",
+				"/Z/CS_Classes_2018/CSA150/CourseWebpageHome/hello/hellom.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/hellom.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/hello.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/testpage/testpage.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/hello.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Hello.html",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-build",
+				"/Z/CS_Classes_2018/CSA161/testpage.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/JavasccriptAssignment_JacobCloward.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/TestJavascript.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/TestJavascript.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/C#_Sample_File.cs",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/testpage/testpage.css",
+				"/C/murach/html5_css3_2/exercises/ch02/template.css",
+				"/C/murach/html5_css3_2/exercises/ch02/template.html",
+				"/C/murach/html5_css3_2/book_apps/ch02/book.css",
+				"/C/murach/html5_css3_2/book_apps/ch02/dreamweaver_book.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/index.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/test.html",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/Gutter Color/GutterColor.sublime-settings",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/README.MD",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/.gitignore",
+				"//yc.edu/StaffShare$/jcloward/Rainmeter/Skins/Simple Cover/SimpleCover.ini",
+				"//home/jcloward/.bashrc",
+				"/Z/AHK/Persistent Generic Controls.ahk",
+				"/C/murach/html5_css3_2/book_apps/ch01/dreamweaver_book.html",
+				"/U/Shr_helpdesk/Installs/Jacob's Tools/Timesheet Filler Outer/TimesheetFiller - Spring2018 - Matt.ahk",
+				"//yc.edu/netlogon/Staff - Copy.vbs",
+				"/C/Users/jcloward/Documents/codebits/savercode/PINBALL_NOUN_TABLES.agc",
+				"/C/Users/jcloward/Documents/codebits/savercode/PINBALL_GAME_BUTTONS_AND_LIGHTS.agc",
+				"/C/Users/jcloward/Documents/codebits/savercode/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc",
+				"/C/Users/jcloward/Documents/codebits/Apollo-11/Comanche055/PINBALL_GAME_BUTTONS_AND_LIGHTS.agc",
+				"/C/Users/jcloward/Documents/codebits/Apollo-11/Comanche055/PINBALL_NOUN_TABLES.agc",
+				"/C/Windows/system32/screensave.py",
+				"//kvail/C$/Windows/sun/java/deployment/deployment.config",
+				"//kvail/C$/Windows/sun/java/deployment/deployment.properties",
+				"//kvail/C$/Windows/sun/java/deployment/exception.sites",
+				"/C/ProgramData/Quest/KACE/scripts/342/script.sh",
+				"/C/Users/jcloward/Downloads/_Thumbs.db",
+				"/C/Users/jcloward/OneDrive/codebits/Questionaire-Character-Gen/.git/HEAD",
+				"/C/Users/jcloward/OneDrive/codebits/Questionaire-Character-Gen/.git/index",
+				"/C/WINDOWS/system32/.bashrc",
+				"/C/home/jcloward/.bashrc",
+				"/C/Users/jcloward/OneDrive/codebits/Questionaire-Character-Gen/init.py",
+				"/C/Users/jcloward/OneDrive/codebits/Adventure/adven.py",
+				"//CALLISTO.YC.EDU/StaffShare$/jcloward/My Games/TIS-100/0/save/00150.0.txt",
+				"/U/Shr_itsinst/Encryption Keys/Recovery Keys(Do not delete)/BitLocker Recovery Key 1D58B056-5938-494D-B7FC-36B9DDDCB9FE.TXT",
+				"/C/Users/jcloward/Downloads/Rockheroes.json",
+				"/C/Users/jcloward/Downloads/base.py",
+				"/Z/AHK/ArrowKeyMouseMove.ahk",
+				"/C/Users/jcloward/OneDrive/codebits/DiscordRollBot/DiscordBot/src/Roller/BasicRoller.java",
+				"/C/Users/jcloward/OneDrive/codebits/Machine/machine.py",
+				"/C/Users/jcloward/OneDrive/codebits/ty.py",
+				"/Z/AHK/Persistent Generic Controls - Copy.ahk",
+				"/U/Shr_helpdesk/Bitlocker Encryption Keys/BitLocker Recovery Key VBELLIS-TB.TXT",
+				"/U/Shr_helpdesk/Bitlocker Encryption Keys/BitLocker Recovery Key ADVISING-02-LT.TXT",
+				"//Keyroom-old/c$/Mwarre03/Signatures/Mark Warren.txt",
+				"//Keyroom-old/c$/KS600n5/Syslog/rAAAAAAH.chg",
+				"/U/Shr_helpdesk/Installs/Jacob's Tools/Timesheet Filler Outer/TimesheetFillerOuter - Francisco.ahk",
+				"/U/Shr_helpdesk/Installs/Jacob's Tools/Password Reset Auto Ticket Creator/Franklin, Dustin/Password Reset AutoTicket - Franklin, Dustin.ahk",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/Password Reset AutoTicket - Franklin, Dustin.ahk",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/PRAT.py",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/TimesheetFillerOuter - Dustin.ahk",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Installed Packages/Python 3.sublime-package",
+				"/C/Users/jcloward/Downloads/EmpireV1.1/Empire/Res/Maps/flatlands.png",
+				"/C/Users/jcloward/Desktop/Burlington Testing/install.bat",
+				"/C/Users/jcloward/Desktop/Burlington Testing/BurlingtonEnglish-Win-Installer.exe",
+				"/C/Users/jcloward/Desktop/ADOBE TEST INSTALL.bat",
+				"/C/Users/jcloward/Desktop/RunAdmin.bat",
+				"/C/Users/jcloward/Downloads/PSTools/Pstools.chm",
+				"/C/Users/jcloward/Downloads/PSTools/psversion.txt",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/GeneratePrats.py",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/TimesheetFillerOuter.ahk",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/TimesheetFillerOuter - Sky.ahk",
+				"/C/Users/jcloward/AppData/Local/Temp/7zOCE020176/version.txt",
+				"/C/Users/jcloward/AppData/Local/Temp/7zOCE005D16/string.txt",
+				"/C/Users/jcloward/AppData/Local/Temp/7zO0E29DF23/string.txt",
+				"/U/Shr_helpdesk/Installs/Jacob's Tools/Timesheet Filler Outer/How to Use - Seriously Read Me First.txt",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/TimesheetFillerOuter - Summer Hours.ahk",
+				"/C/Users/jcloward/Downloads/EmpireV1.1/Empire/config.txt",
+				"/C/Users/jcloward/Downloads/EmpireV1.1/Empire/Res/Starts/world_map.txt",
+				"/C/Users/jcloward/Downloads/Default-KBE_PE10_x64_05_30_2017/TEST.txt",
+				"/C/Users/jcloward/Downloads/EmpireV1.1/Empire/colours.txt",
+				"/C/Users/jcloward/Downloads/EmpireV1.1/Empire/Instructions.txt",
+				"/C/Users/jcloward/Downloads/EmpireV1.1/Empire/CMakeLists.txt",
+				"/C/Users/jcloward/Downloads/Default-KBE_PE10_x64_05_30_2017/readme.txt",
+				"/Z/AHK/PRAT.py",
+				"/Z/AHK/GeneratePrats.py",
+				"/C/Users/jcloward/OneDrive/codebits/py/weapon.py",
+				"/C/Users/jcloward/OneDrive/District Floor Plans and Index/work/log.txt",
+				"/C/Users/jcloward/OneDrive/codebits/Daily Programmer/Wargametes.py",
+				"/C/Users/jcloward/OneDrive/District Floor Plans and Index/batchConvert.sh",
+				"/C/Users/jcloward/OneDrive/District Floor Plans and Index/work - Copy/ConvertToPNG.py",
+				"/C/Users/jcloward/OneDrive/District Floor Plans and Index/output/tree.txt",
+				"/C/Users/jcloward/OneDrive/District Floor Plans and Index/work/ConvertToPNG.py",
+				"/C/Users/jcloward/OneDrive/codebits/py/fantasyrpg.py"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"3",
+					"#f6)",
+					"#f6",
+					"admin",
+					"widows"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 216.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 106.0
+			},
+			"pinned_build_system": "Packages/User/HTML.sublime-build",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 200.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 1018.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font-st",
+						"font-style"
+					],
+					[
+						"draw",
+						"drawBoard"
+					],
+					[
+						"simF",
+						"simField"
+					],
+					[
+						"fieldW",
+						"fieldWidth"
+					],
+					[
+						"a",
+						"absolute"
+					],
+					[
+						"upd",
+						"updateRules"
+					],
+					[
+						"rule",
+						"rulesString"
+					],
+					[
+						"back",
+						"background-repeat"
+					],
+					[
+						"background",
+						"background-size"
+					],
+					[
+						"grid-te",
+						"grid-template-columns"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"alig",
+						"align-self"
+					],
+					[
+						"bord",
+						"border-box"
+					],
+					[
+						"wd",
+						"width"
+					],
+					[
+						"size",
+						"font-size"
+					],
+					[
+						"align",
+						"align-content"
+					],
+					[
+						"bcolor",
+						"background-color"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"teal",
+						"text-align"
+					],
+					[
+						"au",
+						"auto"
+					],
+					[
+						"txal",
+						"text-align"
+					],
+					[
+						"bg",
+						"bg+\tbackground: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"b",
+						"both"
+					],
+					[
+						"if",
+						"iframe\tTag"
+					],
+					[
+						"p",
+						"p\tTag"
+					],
+					[
+						"occ",
+						"occupationTraits"
+					],
+					[
+						"roll",
+						"roll_2"
+					],
+					[
+						"no",
+						"ouputNodes"
+					],
+					[
+						"in",
+						"inputNodes"
+					],
+					[
+						"vector",
+						"vectorProduct"
+					],
+					[
+						"load",
+						"loadPixels"
+					],
+					[
+						"tr",
+						"try\tTry/Except"
+					],
+					[
+						"Comb",
+						"CombStats"
+					],
+					[
+						"sdp",
+						"setDiplomacy"
+					],
+					[
+						"s",
+						"self"
+					],
+					[
+						"BS",
+						"BaseStats"
+					],
+					[
+						"Com",
+						"CombStats"
+					],
+					[
+						"Bas",
+						"BaseStats"
+					],
+					[
+						"de",
+						"deck1"
+					],
+					[
+						"c",
+						"challengeInput"
+					],
+					[
+						"cond",
+						"condense"
+					],
+					[
+						"defmo",
+						"defmodule"
+					],
+					[
+						"lis",
+						"listmult"
+					],
+					[
+						"_",
+						"_"
+					],
+					[
+						"th",
+						"theLoveIsReal"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "//yc/staffshare$/jcloward/dldtg/OR3",
+					"settings":
+					{
+						"buffer_size": 100,
+						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"name": "DEF OR3"
+					}
+				},
+				{
+					"contents": "DEF NOT\n  PORT IN A\n  PORT OUT Z\n  INST OUT NAND A A Z\nENDDEF \n\nDEF AND\n  PORT IN A\n  PORT IN B\n  PORT OUT Z\n\n  NET I\n  INST I NAND A B I\n  INST OUT NOT I Z\nENDDEF\n\nDEF OR\n  PORT IN A\n  PORT IN B\n  PORT OUT Z\n  \n  NET I\n  NET K\n\n  INST NANDI NAND A A I\n  INST NANDK NAND B B K\n  INST OUT NAND I K Z\nENDDEF\n\nDEF OR3\n  PORT IN A\n  PORT IN B\n  PORT IN C\n  PORT OUT Z\n\n  NET I\n  INST NETI OR A B I\n  INST OUT OR C I Z\nENDDEF\n\nDEF NAND3\n  PORT IN A\n  PORT IN B\n  PORT IN C\n  PORT OUT Z\n\n  NET I\n  NET K\n  INST NETI AND A B I\n  INST NETK AND I C K\n  INST OUT NAND K K Z\nENDDEF\n\nDEF TRUTH_TABLE2\n  PORT IN A\n  PORT IN B\n  PORT IN C\n  PORT OUT Z\n\n  NET AI\n  NET AJ\n  NET CI\n  NET CK\n  INST NETAI NOT A AI\n  INST NETAJ NOT A AJ\n  INST NETCI NOT C CI\n  INST NETCK NOT C CK\n\n  NET I\n  NET J\n  NET K\n  INST NAND3I NAND3 AI B CI I\n  INST NAND4I NAND3 AJ B C J\n  INST NAND5I NAND3 A B CK K\n\n  INST OUT OR3 I J K Z\nENDDEF\n\n\nDEF TOP\n  NET A\n  NET B\n  NET C\n  NET Z\n  INST TRUTH_TABLE2 TRUTH_TABLE2 A B C Z\n  INST TEST TRUTH_TABLE2_TEST A B C Z\n  INST OUTA IO_OUT A\n  INST OUTB IO_OUT B\n  INST OUTC IO_OUT C\n  INST OUTZ IO_OUT Z\nENDDEF",
+					"file": "//yc/staffshare$/jcloward/dldtg/TRUTH_TABLE2",
+					"file_size": 1208,
+					"file_write_time": 131638891617053985,
+					"settings":
+					{
+						"buffer_size": 1118,
+						"line_ending": "Windows",
+						"name": "DEF NOT"
+					}
+				},
+				{
+					"file": "//yc/staffshare$/jcloward/dldtg/AND",
+					"settings":
+					{
+						"buffer_size": 189,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Elixir/elixir-mix-test.sublime-build",
+							""
+						],
+						[
+							"Packages/Elixir/elixir.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Elixir/elixir.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 310.0,
+				"last_filter": "colorp",
+				"selected_items":
+				[
+					[
+						"colorp",
+						"Color Picker"
+					],
+					[
+						"valida",
+						"W3C Validators: Validate CSS 3"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"lint",
+						"JSLint"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"color pi",
+						"Color Picker"
+					],
+					[
+						"val",
+						"W3C Validators: Validate HTML5"
+					],
+					[
+						"colorpi",
+						"Color Picker"
+					],
+					[
+						"validate",
+						"W3C Validators: Validate CSS 3"
+					],
+					[
+						"vali",
+						"W3C Validators: Validate HTML5"
+					],
+					[
+						"va",
+						"W3C Validators: Validate CSS 3"
+					],
+					[
+						"valid",
+						"W3C Validators: Validate HTML5"
+					],
+					[
+						"gutter",
+						"GitGutter: Enable for View"
+					],
+					[
+						"gitgutter",
+						"GitGutter: Disable for View"
+					],
+					[
+						"commit",
+						"Git: Commit"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"livereload",
+						"LiveReload: Self test"
+					],
+					[
+						"livere",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"liverel",
+						"LiveReload: Self test"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"fold",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"lowe",
+						"Convert Case: Lower Case"
+					],
+					[
+						"upper",
+						"Convert Case: Upper Case"
+					],
+					[
+						"lower",
+						"Convert Case: Lower Case"
+					],
+					[
+						"colors",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"colorsu",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 438.0
+			},
+			"console":
+			{
+				"height": 120.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"//yc/staffshare$/jcloward/dldtg"
+			],
+			"file_history":
+			[
+				"//yc/staffshare$/jcloward/dldtg/XOR",
+				"//yc/staffshare$/jcloward/dldtg/OR",
+				"//yc/staffshare$/jcloward/dldtg/NOR",
+				"//yc/staffshare$/jcloward/dldtg/NOT",
+				"//yc/staffshare$/jcloward/dldtg/AND",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/javascript/wolframv2.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/javascript/wolfram.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/css/wolfram.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/css/style.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/wolfram.html",
+				"/C/Users/jcloward/Downloads/The Dungeon of First Campagne 02.html",
+				"/Z/CS_Classes_2018/CSA161/Website Final Product/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/css/wolframv2.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter04/town_hall_1/styles/main.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter04/town_hall_1/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter04/town_hall_1/styles/normalize.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter03/town_hall_1/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/exercises/chapter03/town_hall_1/speakers/toobin.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/hello.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/about.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/idle/idle.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/main.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/style.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/.htaccess",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/index.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/testpage.html",
+				"/C/Sybase/log/PC-Client.log",
+				"//srhyner/C$/Sybase/SYBASE.bat",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/testing.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/index.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/index.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/CourseWebpageHome/hello/hello.html",
+				"/Z/CS_Classes_2018/CSA150/CourseWebpageHome/hello/hello.css",
+				"/Z/CS_Classes_2018/CSA150/CourseWebpageHome/hello/hellom.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/hellom.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/hello.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/testpage/testpage.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/hello.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Hello.html",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-build",
+				"/Z/CS_Classes_2018/CSA161/testpage.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/JavasccriptAssignment_JacobCloward.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/TestJavascript.js",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/TestJavascript.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/C#_Sample_File.cs",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/testpage/testpage.css",
+				"/C/murach/html5_css3_2/exercises/ch02/template.css",
+				"/C/murach/html5_css3_2/exercises/ch02/template.html",
+				"/C/murach/html5_css3_2/book_apps/ch02/book.css",
+				"/C/murach/html5_css3_2/book_apps/ch02/dreamweaver_book.html",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA161/Website Final Product/index.css",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/CSA150/test.html",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/Gutter Color/GutterColor.sublime-settings",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/README.MD",
+				"//yc/staffshare$/jcloward/CS_Classes_2018/.gitignore",
+				"//yc.edu/StaffShare$/jcloward/Rainmeter/Skins/Simple Cover/SimpleCover.ini",
+				"//home/jcloward/.bashrc",
+				"/Z/AHK/Persistent Generic Controls.ahk",
+				"/C/murach/html5_css3_2/book_apps/ch01/dreamweaver_book.html",
+				"/U/Shr_helpdesk/Installs/Jacob's Tools/Timesheet Filler Outer/TimesheetFiller - Spring2018 - Matt.ahk",
+				"//yc.edu/netlogon/Staff - Copy.vbs",
+				"/C/Users/jcloward/Documents/codebits/savercode/PINBALL_NOUN_TABLES.agc",
+				"/C/Users/jcloward/Documents/codebits/savercode/PINBALL_GAME_BUTTONS_AND_LIGHTS.agc",
+				"/C/Users/jcloward/Documents/codebits/savercode/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc",
+				"/C/Users/jcloward/Documents/codebits/Apollo-11/Comanche055/PINBALL_GAME_BUTTONS_AND_LIGHTS.agc",
+				"/C/Users/jcloward/Documents/codebits/Apollo-11/Comanche055/PINBALL_NOUN_TABLES.agc",
+				"/C/Windows/system32/screensave.py",
+				"//kvail/C$/Windows/sun/java/deployment/deployment.config",
+				"//kvail/C$/Windows/sun/java/deployment/deployment.properties",
+				"//kvail/C$/Windows/sun/java/deployment/exception.sites",
+				"/C/ProgramData/Quest/KACE/scripts/342/script.sh",
+				"/C/Users/jcloward/Downloads/_Thumbs.db",
+				"/C/Users/jcloward/OneDrive/codebits/Questionaire-Character-Gen/.git/HEAD",
+				"/C/Users/jcloward/OneDrive/codebits/Questionaire-Character-Gen/.git/index",
+				"/C/WINDOWS/system32/.bashrc",
+				"/C/home/jcloward/.bashrc",
+				"/C/Users/jcloward/OneDrive/codebits/Questionaire-Character-Gen/init.py",
+				"/C/Users/jcloward/OneDrive/codebits/Adventure/adven.py",
+				"//CALLISTO.YC.EDU/StaffShare$/jcloward/My Games/TIS-100/0/save/00150.0.txt",
+				"/U/Shr_itsinst/Encryption Keys/Recovery Keys(Do not delete)/BitLocker Recovery Key 1D58B056-5938-494D-B7FC-36B9DDDCB9FE.TXT",
+				"/C/Users/jcloward/Downloads/Rockheroes.json",
+				"/C/Users/jcloward/Downloads/base.py",
+				"/Z/AHK/ArrowKeyMouseMove.ahk",
+				"/C/Users/jcloward/OneDrive/codebits/DiscordRollBot/DiscordBot/src/Roller/BasicRoller.java",
+				"/C/Users/jcloward/OneDrive/codebits/Machine/machine.py",
+				"/C/Users/jcloward/OneDrive/codebits/ty.py",
+				"/Z/AHK/Persistent Generic Controls - Copy.ahk",
+				"/U/Shr_helpdesk/Bitlocker Encryption Keys/BitLocker Recovery Key VBELLIS-TB.TXT",
+				"/U/Shr_helpdesk/Bitlocker Encryption Keys/BitLocker Recovery Key ADVISING-02-LT.TXT",
+				"//Keyroom-old/c$/Mwarre03/Signatures/Mark Warren.txt",
+				"//Keyroom-old/c$/KS600n5/Syslog/rAAAAAAH.chg",
+				"/U/Shr_helpdesk/Installs/Jacob's Tools/Timesheet Filler Outer/TimesheetFillerOuter - Francisco.ahk",
+				"/U/Shr_helpdesk/Installs/Jacob's Tools/Password Reset Auto Ticket Creator/Franklin, Dustin/Password Reset AutoTicket - Franklin, Dustin.ahk",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/Password Reset AutoTicket - Franklin, Dustin.ahk",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/PRAT.py",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/TimesheetFillerOuter - Dustin.ahk",
+				"/C/Users/jcloward/AppData/Roaming/Sublime Text 3/Installed Packages/Python 3.sublime-package",
+				"/C/Users/jcloward/Downloads/EmpireV1.1/Empire/Res/Maps/flatlands.png",
+				"/C/Users/jcloward/Desktop/Burlington Testing/install.bat",
+				"/C/Users/jcloward/Desktop/Burlington Testing/BurlingtonEnglish-Win-Installer.exe",
+				"/C/Users/jcloward/Desktop/ADOBE TEST INSTALL.bat",
+				"/C/Users/jcloward/Desktop/RunAdmin.bat",
+				"/C/Users/jcloward/Downloads/PSTools/Pstools.chm",
+				"/C/Users/jcloward/Downloads/PSTools/psversion.txt",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/GeneratePrats.py",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/TimesheetFillerOuter.ahk",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/TimesheetFillerOuter - Sky.ahk",
+				"/C/Users/jcloward/AppData/Local/Temp/7zOCE020176/version.txt",
+				"/C/Users/jcloward/AppData/Local/Temp/7zOCE005D16/string.txt",
+				"/C/Users/jcloward/AppData/Local/Temp/7zO0E29DF23/string.txt",
+				"/U/Shr_helpdesk/Installs/Jacob's Tools/Timesheet Filler Outer/How to Use - Seriously Read Me First.txt",
+				"//CALLISTO.YC.EDU/StudentShare$/j/jcloward/AHK/TimesheetFillerOuter - Summer Hours.ahk",
+				"/C/Users/jcloward/Downloads/EmpireV1.1/Empire/config.txt",
+				"/C/Users/jcloward/Downloads/EmpireV1.1/Empire/Res/Starts/world_map.txt",
+				"/C/Users/jcloward/Downloads/Default-KBE_PE10_x64_05_30_2017/TEST.txt",
+				"/C/Users/jcloward/Downloads/EmpireV1.1/Empire/colours.txt",
+				"/C/Users/jcloward/Downloads/EmpireV1.1/Empire/Instructions.txt",
+				"/C/Users/jcloward/Downloads/EmpireV1.1/Empire/CMakeLists.txt",
+				"/C/Users/jcloward/Downloads/Default-KBE_PE10_x64_05_30_2017/readme.txt",
+				"/Z/AHK/PRAT.py",
+				"/Z/AHK/GeneratePrats.py",
+				"/C/Users/jcloward/OneDrive/codebits/py/weapon.py",
+				"/C/Users/jcloward/OneDrive/District Floor Plans and Index/work/log.txt",
+				"/C/Users/jcloward/OneDrive/codebits/Daily Programmer/Wargametes.py"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "\\\\yc\\staffshare$\\jcloward\\dldtg"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "//yc/staffshare$/jcloward/dldtg/OR3",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 100,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										100,
+										100
+									]
+								],
+								"settings":
+								{
+									"auto_name": "DEF OR3",
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "//yc/staffshare$/jcloward/dldtg/TRUTH_TABLE2",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1118,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										1118
+									]
+								],
+								"settings":
+								{
+									"auto_name": "DEF NOT",
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 816.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "//yc/staffshare$/jcloward/dldtg/AND",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 189,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										189,
+										0
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 216.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 106.0
+			},
+			"pinned_build_system": "Packages/User/HTML.sublime-build",
+			"position": "0,0,1,-32000,-32000,-1,-1,577,-7,0,607",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 98.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 39,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

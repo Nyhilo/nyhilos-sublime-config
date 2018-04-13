@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Colorsublime - Themes/Monokai-Charcoal.tmTheme",
+	"font_face": "monofur",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Boxy Monokai.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoHotkey",
+		"ayu",
+		"Boxy Theme",
+		"ColorPicker",
+		"Colorsublime",
+		"Elixir",
+		"Emmet",
+		"Git",
+		"Gutter Color",
+		"HTML5",
+		"HTMLBeautify",
+		"Material Theme",
+		"Package Control",
+		"Python 3",
+		"Python Breakpoints",
+		"Rainmeter",
+		"Text Pastry",
+		"Transparency",
+		"W3CValidators"
+	]
+}
